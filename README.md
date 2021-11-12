@@ -39,7 +39,7 @@ The widget containing the `DataTable` will pass its destination data to this wid
 
 The destination's title will be used as the domain for both series.  A screenshot of the desired chart is shown below:
 
-![the chart](images/charts.png)
+![the chart](https://github.com/csci-4100u/lab08/blob/ca55d287472bc55d41519bcd4d5343c8d235ea28/images/charts.PNG)
  
 _Figure 2 - The bar chart_
 
