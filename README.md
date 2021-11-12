@@ -26,7 +26,7 @@ This `DataTable` will be similar to the in-class demo, but will not support sele
 
 The `title` column will merely display a simple `Text` widget.  The other two columns will generate both a `Text` widget (to display the current value), and an `IconButton` (to allow the user to change the value).  A screenshot of the desired table appearance, is shown below:
 
-![the data table](images/data_table.png)
+![the data table](https://github.com/csci-4100u/lab08/blob/ca1cd5fc02fd28867c9c5e3ace8efaa5adc22096/images/data_table.PNG)
 
 _Figure 1 - The DataTable_
 
@@ -39,7 +39,7 @@ The widget containing the `DataTable` will pass its destination data to this wid
 
 The destination's title will be used as the domain for both series.  A screenshot of the desired chart is shown below:
 
-![the chart](images/charts.png)
+![the chart](https://github.com/csci-4100u/lab08/blob/ca55d287472bc55d41519bcd4d5343c8d235ea28/images/charts.PNG)
  
 _Figure 2 - The bar chart_
 
